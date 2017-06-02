@@ -1,0 +1,43 @@
+[26-Feb-2015 15:27:31 Australia/Melbourne] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/gadgyapp/public_html/aiwai/api/Database.php on line 52
+[26-Feb-2015 15:28:55 Australia/Melbourne] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/gadgyapp/public_html/aiwai/api/Database.php on line 52
+[26-Feb-2015 15:31:56 Australia/Melbourne] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/gadgyapp/public_html/aiwai/api/Database.php on line 52
+[26-Feb-2015 15:32:17 Australia/Melbourne] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/gadgyapp/public_html/aiwai/api/Database.php on line 52
+[26-Feb-2015 15:34:04 Australia/Melbourne] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/gadgyapp/public_html/aiwai/api/Database.php on line 52
+[09-Apr-2015 19:48:39 Australia/Melbourne] PHP Fatal error:  Class 'mysqli' not found in /home/mwahchat/public_html/api/Database.php on line 7
+[10-Apr-2015 20:30:54 Australia/Melbourne] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/mwahchat/public_html/api/Database.php on line 52
+[10-Apr-2015 20:38:48 Australia/Melbourne] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/mwahchat/public_html/api/Database.php on line 52
+[10-Apr-2015 22:58:21 Australia/Melbourne] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/mwahchat/public_html/api/Database.php on line 52
+[10-Apr-2015 22:58:24 Australia/Melbourne] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/mwahchat/public_html/api/Database.php on line 52
+[11-Apr-2015 01:19:29 Australia/Melbourne] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/mwahchat/public_html/api/Database.php on line 52
+[14-Apr-2015 20:53:07 Australia/Melbourne] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/mwahchat/public_html/api/Database.php on line 52
+[14-Apr-2015 20:55:34 Australia/Melbourne] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/mwahchat/public_html/api/Database.php on line 52
+[14-Apr-2015 21:11:54 Australia/Melbourne] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/mwahchat/public_html/api/Database.php on line 52
+[14-Apr-2015 21:13:59 Australia/Melbourne] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/mwahchat/public_html/api/Database.php on line 52
+[14-Apr-2015 21:37:36 Australia/Melbourne] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/mwahchat/public_html/api/Database.php on line 52
+[14-Apr-2015 21:46:44 Australia/Melbourne] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/mwahchat/public_html/api/Database.php on line 52
+[14-Apr-2015 23:23:34 Australia/Melbourne] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/mwahchat/public_html/api/Database.php on line 52
+[14-Apr-2015 23:29:05 Australia/Melbourne] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/mwahchat/public_html/api/Database.php on line 52
+[14-Apr-2015 23:29:08 Australia/Melbourne] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/mwahchat/public_html/api/Database.php on line 52
+[14-Apr-2015 23:37:47 Australia/Melbourne] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/mwahchat/public_html/api/Database.php on line 52
+[14-Apr-2015 23:37:51 Australia/Melbourne] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/mwahchat/public_html/api/Database.php on line 52
+[14-Apr-2015 23:37:55 Australia/Melbourne] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/mwahchat/public_html/api/Database.php on line 52
+[15-Apr-2015 00:11:13 Australia/Melbourne] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/mwahchat/public_html/api/Database.php on line 52
+[15-Apr-2015 00:12:35 Australia/Melbourne] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/mwahchat/public_html/api/Database.php on line 52
+[15-Apr-2015 00:12:37 Australia/Melbourne] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/mwahchat/public_html/api/Database.php on line 52
+[15-Apr-2015 00:24:02 Australia/Melbourne] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/mwahchat/public_html/api/Database.php on line 52
+[15-Apr-2015 00:24:35 Australia/Melbourne] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/mwahchat/public_html/api/Database.php on line 52
+[15-Apr-2015 02:04:00 Australia/Melbourne] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/mwahchat/public_html/api/Database.php on line 52
+[15-Apr-2015 02:09:31 Australia/Melbourne] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/mwahchat/public_html/api/Database.php on line 52
+[15-Apr-2015 02:39:11 Australia/Melbourne] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/mwahchat/public_html/api/Database.php on line 52
+[15-Apr-2015 02:39:50 Australia/Melbourne] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/mwahchat/public_html/api/Database.php on line 52
+[15-Apr-2015 02:42:17 Australia/Melbourne] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/mwahchat/public_html/api/Database.php on line 52
+[15-Apr-2015 04:36:48 Australia/Melbourne] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/mwahchat/public_html/api/Database.php on line 52
+[15-Apr-2015 07:31:40 Australia/Melbourne] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/mwahchat/public_html/api/Database.php on line 52
+[15-Apr-2015 07:35:21 Australia/Melbourne] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/mwahchat/public_html/api/Database.php on line 52
+[15-Apr-2015 07:35:30 Australia/Melbourne] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/mwahchat/public_html/api/Database.php on line 52
+[15-Apr-2015 07:35:35 Australia/Melbourne] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/mwahchat/public_html/api/Database.php on line 52
+[15-Apr-2015 07:36:52 Australia/Melbourne] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/mwahchat/public_html/api/Database.php on line 52
+[15-Apr-2015 13:04:40 Australia/Melbourne] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/mwahchat/public_html/api/Database.php on line 52
+[15-Apr-2015 13:52:06 Australia/Melbourne] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/mwahchat/public_html/api/Database.php on line 52
+[16-Apr-2015 01:51:27 UTC] PHP Warning:  POST Content-Length of 8623308 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[16-Apr-2015 01:56:50 UTC] PHP Warning:  POST Content-Length of 8623308 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
